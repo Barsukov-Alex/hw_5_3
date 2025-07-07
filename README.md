@@ -30,6 +30,9 @@ Hey, Netology
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
 Ответ:
+<img src = "img/hw_1_1.jpg" width = 100%>
+
+https://hub.docker.com/repository/docker/mozdoksity/custom-nginx/general
 
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
