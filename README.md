@@ -150,6 +150,18 @@ services:
 
 В случае если вы решили объединить оба файла в одном, то оба сервиса (portainer и registry) будут запущены.
 
+
+
+Сompose выдал предупреждение о том, что в проекте найдены потерянные контейнеры. Compose предлгает запустить команду с флагом --remove-orphans, для удаления контейнеров которые не имеют манифеста.
+
+<img src = "img/hw_5_1.jpg" width = 100%>
+<img src = "img/hw_5_2.jpg" width = 100%>
+<img src = "img/hw_5_3.jpg" width = 100%>
+<img src = "img/hw_5_4.jpg" width = 100%>
+<img src = "img/hw_5_5.jpg" width = 100%>
+<img src = "img/hw_5_6.jpg" width = 100%>
+<img src = "img/hw_5_7.jpg" width = 100%>
+<img src = "img/hw_5_8.jpg" width = 100%>
 ### Правила приема
 
 Домашнее задание выполните в файле readme.md в GitHub-репозитории. В личном кабинете отправьте на проверку ссылку на .md-файл в вашем репозитории.
