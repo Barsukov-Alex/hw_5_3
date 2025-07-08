@@ -45,6 +45,10 @@ https://hub.docker.com/repository/docker/mozdoksity/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+Ответ:
+
+<img src = "img/hw_2_1.jpg" width = 100%>
+<img src = "img/hw_2_2.jpg" width = 100%>
 
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".
